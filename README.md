@@ -8,7 +8,7 @@ This home task is ment to test your ability to learn and oprate:
 
 * Install docker
 * Run neo4j localy in a docker container
-* Load this DB:
+* Load [this DB dump](movies.dump) into the container DB.
 * Log into the Web UI of the DB
 
 ### Run cypher query to answer these questions:

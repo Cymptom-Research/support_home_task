@@ -6,11 +6,11 @@ This home task is ment to test your ability to learn and oprate:
 
 ## Assignment
 
-1. Install docker
-2. Run neo4j localy in a docker container
-3. Load this DB:
-4. Log into the Web UI of the DB
-5. Run cypher query to answer these questions:
+* Install docker
+* Run neo4j localy in a docker container
+* Load this DB:
+* Log into the Web UI of the DB
+* Run cypher query to answer these questions:
 
 
 1. When was `V for Vendetta` released?

@@ -16,7 +16,7 @@ This home task is ment to test your ability to learn and oprate:
 * Log into the Web UI of the DB
 
 ### Run cypher query to answer these questions:
-
+For each question please specify what qury did you ran to get the result.
 
 1. When was `V for Vendetta` released?
 2. Who acted in any `Spider-Man` movie that appear in the DB? When were they born? (notice that Spider-Man is a partial name of a movie)
